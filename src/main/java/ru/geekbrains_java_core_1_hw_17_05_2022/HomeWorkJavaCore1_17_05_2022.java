@@ -18,7 +18,7 @@ public class HomeWorkJavaCore1_17_05_2022 {
             System.out.println("false");
             return false;
         }else if(result > 20){
-            System.out.println("false");
+            System.out.println("false ");
             return false;
         }else{
             System.out.println("true");
