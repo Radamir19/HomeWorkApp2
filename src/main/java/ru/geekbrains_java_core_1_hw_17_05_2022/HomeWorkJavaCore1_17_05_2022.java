@@ -6,7 +6,7 @@ public class HomeWorkJavaCore1_17_05_2022 {
             //checkNegativeOrPositive();
             //checkNegativeOrPositivee();
             //repeatTheString();
-            checkTheYear(400);
+            //checkTheYear(400);
     }
 
 
